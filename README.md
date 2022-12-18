@@ -13,6 +13,7 @@
 使用方式
 - 如果你会科学上网
   - feedly(全平台的RSS阅读器） 导入 rss.opml 这个文件。 ps: inoreader 我没用过
+  - 强烈推荐 readwise reader! 非常好用，不过需要付费
 - 如果不会
   - ios 推荐使用 [ego reader](https://www.yuque.com/pocv40/alcg2a/rwn2w8) , 同样 导入 Opml
   - 安卓: [feedme](https://github.com/seazon/FeedMe)，它在设置里有一个 中国模式，可以免vpn，不过为了使用它，你同样需要一个 feedly 账号
